@@ -6,3 +6,7 @@ SFML (Simple and Fast Multimedia Library) was used in this project and the follo
 <li>Map.h</li>
 <li>Interface.h</li>
 <li>Endof.h</li>
+
+
+To Launch the game run :
+! Release/Pacman.exe
