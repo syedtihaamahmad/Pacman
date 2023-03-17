@@ -9,4 +9,4 @@ SFML (Simple and Fast Multimedia Library) was used in this project and the follo
 
 
 To Launch the game run :
-! Release/Pacman.exe
+```Release/Pacman.exe```
